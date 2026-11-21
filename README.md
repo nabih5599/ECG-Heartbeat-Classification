@@ -1,2 +1,2 @@
 # ECG-Heartbeat-Classification
-ECG heartbeat classification using morphological features and causal RR-history
+his repository contains the research materials and implementation of an ECG heartbeat classification framework integrating ECG morphological features with causal RR-history information.
